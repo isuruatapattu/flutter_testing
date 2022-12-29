@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
             ),
             body: const Center(
               child: Text(
-                  'Hello World - This is to check VS between Android Studio and VS Code'),
+                  'Hello World - This is to check Version Control between Android Studio and VS Code'),
             )));
   }
 }
